@@ -1,11 +1,8 @@
-Got it! Here's a more concise and clear Markdown file for the project:
-
-```markdown
-# Simple User Management Application
+#Simple User Management Application
 
 A simple and effective user management system built with **HTML**, **CSS**, and **JavaScript**, featuring full CRUD operations and persistent data storage using `localStorage`.
 
----
+
 
 ## Features
 
