@@ -1,4 +1,4 @@
-#Simple User Management Application
+# Simple User Management Application
 
 A simple and effective user management system built with **HTML**, **CSS**, and **JavaScript**, featuring full CRUD operations and persistent data storage using `localStorage`.
 
